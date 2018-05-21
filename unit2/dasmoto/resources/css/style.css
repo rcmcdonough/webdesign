@@ -7,10 +7,10 @@ h1 {
   font-weight: bold;
   color: khaki;
   text-align: center;
+  background-image: url(https://rcmcdonough.github.io/dasmoto/resources/images/pattern.jpeg);
   }
 
 .main_hdr {
-  background-image: url(file:///Users/rmcdonough/github/webdesign/unit2/dasmoto/resources/images/pattern.jpeg);
 }
 
 h2 {
