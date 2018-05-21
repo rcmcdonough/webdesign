@@ -18,3 +18,9 @@ CSS Basics
 
 ### [first-html-css-project](unit2/first-html-css-project)
 first project that includes css for styling
+
+### [beach_paradise](unit2/beach_paradize)
+beach paradise project
+
+### [dasmoto](unit2/dasmoto)
+dasmoto project - needed to be submitted
