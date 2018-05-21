@@ -1,0 +1,37 @@
+html {
+  font-family: Helvetica sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  }
+
+.main_hdr {
+  background-image: url(file:///Users/rmcdonough/github/webdesign/unit2/dasmoto/resources/images/pattern.jpeg);
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes_hdr {
+  background-color: mediumspringgreen;
+}
+
+.frames_hdr {
+  background-color: lightcoral;
+}
+
+.paint_hdr {
+  background-color: skyblue;
+}
+
+.cost {
+  font-weight: bold;
+  color: blue;
+}
