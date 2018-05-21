@@ -1,5 +1,9 @@
 # webdesign
-codecademy web design projects
+codecademy web design projects..initial repo for saving stuff
+
+projects that require real hosting have been moved to the https://github.com/rcmcdonough.github.io repo
+
+for DASMOTO project site go to: https://rcmcdonough.github.io/dasmoto/ to view web site or https://github.com/rcmcdonough.github.io/dasmoto to view the code.
 
 ## [unit1](unit1)
 HTML Basics
